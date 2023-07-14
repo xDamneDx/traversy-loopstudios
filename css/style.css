@@ -767,6 +767,10 @@ h5 {
   margin-bottom: calc(2rem * var(--tw-space-y-reverse));
 }
 
+.self-end {
+  align-self: flex-end;
+}
+
 .border-2 {
   border-width: 2px;
 }
